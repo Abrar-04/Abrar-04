@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](gif/code.gif)
+![](#gif/code.gif)
 
 <!--
 **Abrar-04/Abrar-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
