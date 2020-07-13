@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-![](#gif/code.gif)
-![](#gif/matrix.gif)
+![code](https://github.com/Abrar-04/Abrar-04/blob/master/%23gif/code.gif)
 
 <!--
 **Abrar-04/Abrar-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
