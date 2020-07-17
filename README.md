@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/Abrar-04/Abrar-04/blob/master/%23gif/matrix.gif">
+ <img src="https://github.com/Abrar-04/Abrar-04/blob/master/%23gif/matrix.gif"  alt="drawing" width="200">
 </p>
